@@ -6,6 +6,16 @@
         <description>Notarized MacBack updates</description>
         <language>en</language>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Sun, 19 Jul 2026 07:33:39 -0400</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.5</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://github.com/jclarke/macback-releases/releases/download/v0.3.0/MacBack-0.3.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jclarke/macback-releases/releases/download/v0.3.0/MacBack-0.3.0.zip" length="21526630" type="application/octet-stream" sparkle:edSignature="wLA0kOiRZFAJHkr9H59I1kVBEhApURHiOJEPa7WlFPoZ4c7oRXpjfd5OG8kBD5XBv4BYOyd3mabcuj/BDxfEDA=="/>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Sat, 18 Jul 2026 22:02:57 -0400</pubDate>
             <sparkle:version>3</sparkle:version>
